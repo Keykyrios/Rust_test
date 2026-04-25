@@ -1,0 +1,5 @@
+[package]
+name = "rust_test"
+version = "0.1.0"
+edition = "2021"
+description = "BDK Wallet SOB 2026 competency test"
